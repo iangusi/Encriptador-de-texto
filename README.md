@@ -1,5 +1,5 @@
-<h1> Encriptador de texto </h1>
-- Estado del proyecto: Terminado.
+<h1 align="center"> Encriptador de texto </h1>
+:heavy_check_mark: Estado del proyecto: Terminado.
 
 - El objetivo del proyecto es desarrollar una aplicación que encripta y desencripta textos.
 - Las "llaves" de encriptación que se utilizarán son:
